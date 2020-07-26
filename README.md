@@ -10,5 +10,6 @@ This repo contains the sample solidity file:
 ```
 contracts/GGMToken.sol
 ```
+Thank you, vahiwe for providing this.
 
 Feel free to leave any issues and I'll get back to you and help you out :)
